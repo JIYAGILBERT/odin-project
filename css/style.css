@@ -6,5 +6,133 @@
     color: goldenrod;
 }
 .hed{
-    margin-left: 500px;
+    margin-left: 50px;
+    
+}
+.how-it-wrks{
+   
+    color: gray;
+}
+.img{
+    /*
+    margin-left: 50px;
+    background-color: black;
+    justify-content: space-between;
+    */
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+    
+}
+.book{
+    margin-left:200px ;
+}
+.lap{
+    margin-left: 200px;
+    
+}
+.man{
+    
+    margin-left: 200px;
+}
+.sub-hed{
+    color: rgb(69, 68, 68);
+
+}
+.block-p{
+    margin-right: 10px;
+    color: gray;
+}
+/*.block-fullbox{
+    background-color: rgb(243 244 246 );
+    
+    height: 900px;
+    width: 100%;
+    
+}
+.block-hed{
+    margin-top: 30px;
+}
+.block-box{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+    
+
+}
+.block-box-1{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    padding-left: 300px;
+    
+}
+.block-box-2{
+    background-color:white;
+    width: 200px;
+    height: 300px;
+    padding-left: 300px;
+}
+.block-box-3{
+    background-color:white;
+    width: 200px;
+    height: 300px;
+    padding-left: 300px;
+}*/
+.box{
+    height: 1940px;
+    width: 100%;
+    background-color: rgb(243 244 246 );
+    margin: 30px 30px 30px 30px;
+    
+    
+}
+.box-9{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box-hed{
+    
+    padding: 100px 400px ;
+    
+}
+.box-1{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 100px;
+}
+.box-img{
+    width: 200px;
+    height: 300px;
+}
+.success-images{
+    width: 90px;
+    height: 90px;
+    display:flex;
+    margin: 0px 300px;
+
+}
+
+.round-box{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.supp-box{
+    margin: 0px 300px; 
+}
+
+.foot{
+    background-color: white;
+    height: 40vh;
+}
+.foot div{
+    height: 100%;
+}
+.foot li{
+    list-style: none;
 }
